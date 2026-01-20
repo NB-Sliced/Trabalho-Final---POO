@@ -12,7 +12,7 @@ O projeto roda no main.py e lá é feita a chamada das classes que estão nos ou
 como por exemplo os pacotes "tem_flor" e "Sem_flor", que são "filhas" da superclasse que está presente no Planta.py.
 
 
-# como funciona o código e suas funcionalidades
+#como funciona o código e suas funcionalidade
 
 Basicamente o usuário vai responder perguntas e o sistema identifica qual é o tipo da planta, que pode ser:
 -Briófita
